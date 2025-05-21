@@ -1,2 +1,1 @@
-# web_application_project
-Creating a food website using bootsrap
+# HEART DISEASE PREDICTION USING OPTIMIZED SVM MODEL
